@@ -11,5 +11,12 @@ public class Variable002 {
 		int namae1;
 		namae1 = 12;
 		System.out.println(namae1);
+		
+		final int LUCKY = 7;
+		String str = "megumi";
+		System.out.println(str);
+		str = "megu";
+		System.out.println(str);
+		System.out.println(LUCKY);
 	}
 }

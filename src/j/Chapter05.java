@@ -2,9 +2,9 @@ package j;
 
 public class Chapter05 {
 	public static void main(String[] args) {
-		long l = 10000000000L;
+		long l = 10000000000L; //大きい整数を宣言
         System.out.println(l);
-        double d = 3.14;
+        double d = 3.14;//浮動小数
         System.out.println(d);
         boolean b = true;
         System.out.println(b);

@@ -4,8 +4,8 @@ public class Chapter06 {
 
 	public static void main(String[] args) {
 		String str = "aaa";
-//		str = "bbb";
-		System.out.println(str);
+		str = "bbb";//初期化
+		System.out.println(str);///
 	}
 
 }
